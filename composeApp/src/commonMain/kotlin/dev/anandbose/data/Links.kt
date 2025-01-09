@@ -33,17 +33,17 @@ val Links = listOf(
     LinkData(
         icon = Res.drawable.social_github,
         title = "GitHub",
-        url = "https://github.com/anandbosedev",
+        url = "https://github.com/anand-bose",
     ),
     LinkData(
         icon = Res.drawable.social_mastodon,
         title = "Mastodon",
-        url = "https://mastodon.social/@anandbosedev",
+        url = "https://mastodon.online/@anandbose",
     ),
     LinkData(
         icon = Res.drawable.social_bluesky,
         title = "Bluesky",
-        url = "https://bsky.app/profile/anandbose.dev",
+        url = "https://bsky.app/profile/anandbose.bsky.social",
     ),
     LinkData(
         icon = Res.drawable.social_twitter,
