@@ -13,7 +13,7 @@
         "id": "did:web:a-b.im#atproto",
         "type": "Multikey",
         "controller": "did:web:a-b.im",
-        "publicKeyMultibase": "zDnaeVqQYY4tMvcVVcgK8B8yB75ZxSey8JSmzTqUBktWCjAeF"
+        "publicKeyMultibase": "zDnaecwVHPVdHHs8yGaq36aM7wbTjKXiwPYU2XxRJdjaEoMZx"
       }
     ],
     "service": [
