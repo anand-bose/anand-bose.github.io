@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1",
+    "https://w3id.org/security/suites/secp256k1-2019/v1"
+  ],
+  "id": "did:web:a-b.im",
+  "alsoKnownAs": [
+    "at://a-b.im"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:web:a-b.im#atproto",
+      "type": "Multikey",
+      "controller": "did:web:a-b.im",
+      "publicKeyMultibase": "zDnaeom1HXdFkBptohgbssTa6crUeSD61NDiC6GijeBrjVRQA"
+    }
+  ],
+  "service": [
+    {
+      "id": "#atproto_pds",
+      "type": "AtprotoPersonalDataServer",
+      "serviceEndpoint": "https://pds.a-b.im"
+    }
+  ]
+}
