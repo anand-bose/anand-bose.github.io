@@ -28,7 +28,7 @@ val Links = listOf(
     LinkData(
         icon = Res.drawable.social_linkedin,
         title = "LinkedIn",
-        url = "https://linkedin.com/in/anandbosedev",
+        url = "https://www.linkedin.com/in/anand-bose/",
     ),
     LinkData(
         icon = Res.drawable.social_github,
@@ -43,7 +43,7 @@ val Links = listOf(
     LinkData(
         icon = Res.drawable.social_bluesky,
         title = "Bluesky",
-        url = "https://bsky.app/profile/anand-bose.github.io",
+        url = "https://bsky.app/profile/anandbose.dev",
     ),
     LinkData(
         icon = Res.drawable.social_twitter,
