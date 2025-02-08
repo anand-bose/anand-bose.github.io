@@ -6,7 +6,7 @@ import anandbose.composeapp.generated.resources.social_github
 import anandbose.composeapp.generated.resources.social_linkedin
 import anandbose.composeapp.generated.resources.social_mastodon
 import anandbose.composeapp.generated.resources.social_medium
-import anandbose.composeapp.generated.resources.social_twitter
+import anandbose.composeapp.generated.resources.selfhosted
 import androidx.compose.runtime.Immutable
 import androidx.compose.runtime.Stable
 import org.jetbrains.compose.resources.DrawableResource
@@ -46,8 +46,8 @@ val Links = listOf(
         url = "https://bsky.app/profile/anand-bose.github.io",
     ),
     LinkData(
-        icon = Res.drawable.social_twitter,
-        title = "Twitter",
-        url = "https://x.com/@anandbosedev",
+        icon = Res.drawable.selfhosted,
+        title = "Self Hosted",
+        url = "https://a-b.im",
     ),
 )
