@@ -134,7 +134,7 @@ fun App() {
                                 )
                                 append(". Source code is available on ")
                                 styledLink(
-                                    url = "https://github.com/anandbosedev/anandbosedev.github.io",
+                                    url = "https://github.com/anand-bose/anand-bose.github.io",
                                     text = "GitHub",
                                 )
                                 append(".")
