@@ -1,0 +1,24 @@
+tech:
+  label: Tech Stuffs
+  permalink: /tech
+  description: Tech Stuffs
+
+android:
+  label: Android
+  permalink: /android
+  description: Posts related to Android development
+
+compose:
+  label: Jetpack Compose
+  permalink: /compose
+  description: Posts related to Jetpack Compose
+
+kotlin:
+  label: Kotlin
+  permalink: /kotlin
+  description: Posts related to Kotlin programming language
+
+java:
+  label: Java
+  permalink: /java
+  description: Posts related to Java programming language
