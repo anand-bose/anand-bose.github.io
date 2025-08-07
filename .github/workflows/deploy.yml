@@ -25,7 +25,7 @@ jobs:
       - name: Build website
         run: npm run build
       - name: Fix Mastodon verfication
-        run: sed -i 's|<a href="https://mastodon.social/@anandbose_dev" target="_blank" rel="noopener noreferrer"|<a href="https://mastodon.social/@anandbose_dev" target="_blank" rel="noopener noreferrer me"|g' ./build/index.html
+        run: sed -i 's|<a href="https://mastodon.online/@anandbose" target="_blank" rel="noopener noreferrer"|<a href="https://mastodon.online/@anandbose" target="_blank" rel="noopener noreferrer me"|g' ./build/index.html
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3

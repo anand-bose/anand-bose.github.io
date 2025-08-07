@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'anandbose-dev', // Usually your GitHub org/user name.
-  projectName: 'anandbose-dev.github.io', // Usually your repo name.
+  organizationName: 'anand-bose', // Usually your GitHub org/user name.
+  projectName: 'anand-bose.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -87,7 +87,7 @@ const config: Config = {
         // },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/anandbose-dev',
+          href: 'https://github.com/anand-bose',
           label: 'GitHub',
           position: 'right',
         },
@@ -105,11 +105,11 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/anandbose-dev',
+              href: 'https://github.com/anand-bose',
             },
             {
               label: 'Medium',
-              href: 'https://medium.com/@anandbose-dev',
+              href: 'https://medium.com/@anandbose',
             },
           ],
         },
@@ -135,11 +135,11 @@ const config: Config = {
             //},
             {
               label: 'X',
-              href: 'https://x.com/anandbose_dev',
+              href: 'https://x.com/anand_codes',
             },
             {
               label: 'LinkedIn',
-              href: 'https://linkedin.com/in/anandbose-dev',
+              href: 'https://linkedin.com/in/anand-bose',
             },
             {
               label: 'Bluesky',
@@ -147,18 +147,9 @@ const config: Config = {
             },
             {
               label: 'Mastodon',
-              href: 'https://mastodon.social/@anandbose_dev'
+              href: 'https://mastodon.online/@anandbose'
             }
           ],
-        },
-        {
-          title: 'Photos',
-          items: [
-            {
-              label: 'Instagram',
-              href: 'https://instagram.com/anandbose.dev',
-            },
-          ]
         }
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Anand Bose. Built with Docusaurus.`,

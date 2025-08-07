@@ -1,6 +1,6 @@
 {
-  "name": "anandbose-dev",
-  "version": "0.0.0",
+  "name": "anands-website",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
