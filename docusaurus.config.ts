@@ -147,7 +147,7 @@ const config: Config = {
             },
             {
               label: 'Mastodon',
-              href: 'https://mastodon.online/@anandbose'
+              href: 'https://mastodon.social/@anandcodes'
             }
           ],
         }
